@@ -1,22 +1,22 @@
 # Excel_IA
 
-##📊 Simulador de Investimentos em Fundos Imobiliários
+📊 ##Simulador de Investimentos em Fundos Imobiliários
 Este projeto é uma planilha interativa desenvolvida em Excel que permite simular aportes mensais e a evolução patrimonial ao investir em Fundos de Investimento Imobiliário (FIIs), com base em diferentes perfis de investidor.
 
-##📁 Estrutura do Arquivo
+📁 ##Estrutura do Arquivo
 O arquivo Excel possui duas abas principais:
 
 1. APP
 Esta aba funciona como a interface principal de simulação. Contém as seguintes seções:
 
-##⚙️ Configurações Iniciais
+⚙️ ##Configurações Iniciais
 Salário: valor base do salário mensal do usuário.
 
 Rendimento Carteira: percentual de retorno mensal esperado da carteira de investimentos.
 
 Sugestão de Investimento (30%): valor sugerido de investimento com base em 30% do salário.
 
-##💰 Investimento Mensal
+💰 ##Investimento Mensal
 Quanto investir por mês?: valor de aporte mensal desejado.
 
 Por quantos anos?: período de investimento (em anos).
@@ -35,7 +35,7 @@ TIJOLO
 HÍBRIDOS
 FOFs
 
-##✅ Funcionalidades
+✅ ##Funcionalidades
 Simulação de patrimônio acumulado com base em aportes mensais e taxa de rendimento composta.
 
 Estimativa de dividendos mensais ao final do período.
@@ -44,7 +44,7 @@ Sugestão de alocação de carteira conforme perfil de risco.
 
 Interface simples e editável diretamente no Excel.
 
-##🛠️ Como Usar
+🛠️ ##Como Usar
 Abra o arquivo Simulador de Investimentos Fundos Imobiliários.xlsx.
 
 Acesse a aba APP;
@@ -61,7 +61,7 @@ Taxa de rendimento estimada
 
 Os resultados são atualizados automaticamente.
 
-##📌 Observações
+📌 ##Observações
 A simulação é simplificada e não leva em conta inflação, tributação ou custos operacionais.
 
 As taxas de rendimento e dividendos são estimativas baseadas em histórico de mercado.
