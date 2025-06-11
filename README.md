@@ -63,6 +63,9 @@ Contém a **alocação recomendada de ativos** para diferentes perfis de investi
 
 
 
+
+
+
 # 📑 Projeto: Planejador de Imposto de Renda
 
 Este projeto é uma planilha-modelo em Excel que ajuda na organização de dados financeiros e na preparação para a declaração de Imposto de Renda Pessoa Física (IRPF), reunindo informações como rendimentos, bancos, extratos e dados pessoais.
