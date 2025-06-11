@@ -60,3 +60,74 @@ Contém a **alocação recomendada de ativos** para diferentes perfis de investi
 
 - A simulação é simplificada e **não considera** inflação, tributação ou custos operacionais.
 - As taxas de rendimento e dividendos são **estimativas** baseadas em histórico de mercado.
+
+
+
+# 📑 Projeto: Planejador de Imposto de Renda
+
+Este projeto é uma planilha-modelo em Excel que ajuda na organização de dados financeiros e na preparação para a declaração de Imposto de Renda Pessoa Física (IRPF), reunindo informações como rendimentos, bancos, extratos e dados pessoais.
+
+## 🗂 Estrutura do Arquivo
+O arquivo contém quatro abas principais:
+
+### 1. TITULAR
+Contém os dados cadastrais do titular da declaração. Estrutura:
+
+Nome completo
+
+CPF
+
+Data de nascimento
+
+Endereço
+
+Outros dados de identificação pessoal relevantes para o IR
+
+#### 📝 Objetivo: centralizar e padronizar os dados básicos para referência ou preenchimento de plataformas da Receita Federal.
+
+## 2. INFORMES
+Espaço destinado ao preenchimento de informes de rendimentos recebidos de instituições financeiras ao longo do ano-base.
+
+Seção orientativa: "Preencha com seus dados atuais de cada banco"
+
+Campo de TOTAL para consolidação geral dos informes
+
+#### 📝 Objetivo: facilitar a conferência e inserção dos valores diretamente informados pelos bancos.
+
+## 3. NOTAS
+Área para registrar os valores de entrada mês a mês, sejam eles:
+
+Créditos salariais
+
+Rendimento de aplicações
+
+Transferências recebidas
+
+#### 📝 Objetivo: ajudar no controle de fluxo de caixa e confrontar com extratos bancários ou holerites.
+
+
+## ✅ Funcionalidades
+Organização clara e estruturada dos dados necessários para o IR
+
+Facilita o preenchimento do programa da Receita Federal
+
+Suporte à conferência de valores recebidos e rendimentos
+
+Ideal para uso próprio, familiar ou até por contadores
+
+## 🛠️ Como Usar
+Abra o arquivo Projeto - Imposto de Renda.xlsx no Excel.
+
+Preencha os dados do titular na aba TITULAR.
+
+Preencha os informes de rendimentos conforme os dados fornecidos pelos bancos na aba INFORMES.
+
+Utilize a aba NOTAS para registrar os valores recebidos mensalmente.
+
+
+## 📌 Observações
+Esta planilha não realiza cálculos automáticos nem validações fiscais.
+
+Recomenda-se o uso deste modelo como apoio e preparação antes de utilizar o programa oficial da Receita Federal.
+
+Os dados inseridos são de responsabilidade do usuário.
