@@ -128,9 +128,65 @@ Preencha os informes de rendimentos conforme os dados fornecidos pelos bancos na
 Utilize a aba NOTAS para registrar os valores recebidos mensalmente.
 
 
-## 📌 Observações
-Esta planilha não realiza cálculos automáticos nem validações fiscais.
 
-Recomenda-se o uso deste modelo como apoio e preparação antes de utilizar o programa oficial da Receita Federal.
+# 📊 Dashboard de Vendas – Projeto em Excel
 
-Os dados inseridos são de responsabilidade do usuário.
+## 📌 Objetivo
+
+Este projeto tem como finalidade a criação de um **Dashboard de Vendas** interativo utilizando o **Microsoft Excel**. O foco está na **organização e visualização de dados**, permitindo transformar informações brutas em insights úteis para análise de desempenho e tomada de decisões estratégicas.
+
+---
+
+## 📁 Estrutura do Projeto
+
+- `Dashboard de Vendas.xlsx`: Arquivo principal contendo os dados e o dashboard pronto.
+- `README.md`: Documento explicativo com objetivo, detalhes dos dados e instruções de uso.
+
+---
+
+## 📈 Funcionalidades do Dashboard
+
+- Visão geral de indicadores principais (KPIs): total de vendas, número de pedidos, ticket médio, etc.
+- Análise mensal e por categoria de produto.
+- Filtros dinâmicos para análise por vendedor, produto, região ou período.
+- Gráficos interativos (colunas, linhas, pizza) para facilitar a compreensão.
+
+---
+
+## 🧾 Fonte dos Dados
+
+Os dados utilizados foram simulados para fins didáticos e representam:
+
+- **ID do Pedido**
+- **Data da Venda**
+- **Produto**
+- **Categoria**
+- **Região**
+- **Vendedor**
+- **Quantidade**
+- **Preço Unitário**
+- **Valor Total**
+
+Esses dados estão organizados em uma aba separada chamada `Base de Dados` dentro do Excel.
+
+---
+
+## ▶️ Como Usar
+
+1. Faça o download do arquivo Dashboard de Vendas.
+2. Abra o arquivo no **Microsoft Excel**.
+3. Navegue até a aba `Dashboard` para visualizar os indicadores e gráficos.
+4. Use os filtros disponíveis para segmentar os dados conforme sua necessidade.
+
+---
+
+## 🧠 Aprendizados
+
+Este projeto reforça os seguintes conceitos:
+
+- Organização de dados para análise.
+- Criação de Tabelas Dinâmicas e Gráficos Dinâmicos.
+- Uso de segmentações de dados (slicers) e filtros.
+- Design de dashboards com foco em usabilidade e clareza visual.
+
+
